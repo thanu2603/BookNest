@@ -59,7 +59,7 @@ function Freecard() {
         <>
             <div className='max-w-screen-2xl container mx-auto md:px-20 px-4'>
                 <div><h1 className='font-semibold text-xl pb-2'>Free Books</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore sapiente dolores dignissimos maiores. Ut incidunt quia ea, sunt, voluptatem, magnam at tenetur quae rerum possimus eaque nulla repudiandae distinctio totam.</p>
+                    <p>Unlock a world of knowledge with BookNest: free books and expert-led courses to ignite your passion for learning.</p>
                 </div>
 
                 <div>
